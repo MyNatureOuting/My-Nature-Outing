@@ -37,7 +37,7 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 4.	Name this project folder with your first name. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera.
 
-5.	Use **Code Pad Text Editor** to open the index.html document from your project folder. If needed, download Code Pad Text Editor [Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB)
+5.	Option A. (Strong Internet) Go to  [Phoenix Code](https://phcode.dev) and open project folder. Option B. (Weak/No Internet) Use **Code Pad Text Editor** to open the index.html document from your project folder. If needed, download Code Pad Text Editor [Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB)
 
 6.	Start working with code by reading through the index.html where you'll find instructions on how to build your own web text!
 
@@ -54,9 +54,19 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 
 
+## Code editor 
 
-## More on Text Editors (Chromebook)
+You have a range of code editor options depending on your operating system, but we recommend [Phoenix Code](https://phcode.dev) because it works across all operating systems, it comes with HTML preview already installed, and it's free and open-source. If you are working without strong internet, we recommend Code Pad. 
 
+### Phoenix Code (Online)
+[See Video Tutorial](https://youtu.be/j8o506PZ1H8)
+
+1. Go to [Phoenix Code](https://phcode.dev). 
+1. Open project folder.
+1. Adjust text wrapping, select **View>Word Wrap**
+1. Enjoy the live preview. <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+### Code Pad Text Editor (App)
 1. Download [Code Pad Text Editor](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB) from the Chrome Web Store. 
 1. From the dropdown menu, select **Editor>IDE Preferences**
 1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)<p>&nbsp;</p>
@@ -73,68 +83,10 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 
 
-## Get started! (Windows or Mac)
 
-1. Go to repository [My Nature Outing repository:] (https://github.com/MyNatureOuting/my-nature-outing)
 
-2. Click "Code" then "Download ZIP" to your local computer. 
-
-3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
-
-4. Download and/or open a text editor like [brackets.io](https://brackets.io) or [visualstudiocode](https://code.visualstudio.com/download)
-
-5. Use the text editor to open the style.css and index.html documents from your project folder.  
-
-6. Start working with code by reading through the index.html where you'll find instructions on how to build your own web text! 
-
-7. Once you have modified and added your files to your project file, you will want to publish to the web. GitHub provides a good solution for "free." Create a GitHub account, then create a new repository for this webtext. Click  "uploading an existing file," (push) your files into this repository. You'll need ALL of your assets to make your webtext function properly. Upload assets, then hit "Commit changes." 
-
-8. Now go to your repository "settings." Scroll down to "GitHub Pages" and change the setting from "none" to "main." Hit "Save"
-
-9. This will provide you with a published GitHub URL.
-
-10. Test the URL in a browser. Magic, no? Actually, it's computer science.  
+Check out our other cool coding tools at [Codela](https://codela-k12.github.io/main/)<p>&nbsp;</p>
 
 
 
-Check out our other cool coding tools [at Pitt Fuego](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)<p>&nbsp;</p>
-
-## More on Text Editors! (Windows and Mac)
-
-Setting up **Atom** for Mac/Windows and **CodePad** for Chromebooks 
-
-
-### (Mac)
-
-
-1. Download "**Atom**" from [Atom.io](http://Atom.io)
-1. Add HTML Preview 
-	- from the dropdown menu, select **Atom>Preferences>Install**
-	- In the search bar type "**HTML Preview**." 
-	- Select the package built by "**HARMSK**." Click "**Install**."
-1. Adjust text wrapping 
-	 -	from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)
-
-### (Windows)
-
-1. Download "**Atom**" from [Atom.io](http://Atom.io)
-1. Add HTML Preview - from the dropdown menu, select **File>Settings.** In the tab that loads select **+Install** 
-1. In the search bar type "**HTML Preview**." 
-1. Select the package built by "**HARMSK**." Click "**Install**."
-1. Adjust text wrapping - from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)<p>&nbsp;</p>
-
-
-## iPad to Chromebook Help
-
-1.	Set photos to jpg. (highest quality) Select your best photos on iPad. Rename photos using camel case.  SimpleName.jpg
-
-2.	Use a .wav audio recorder like Handy Recorder on iPad for recording small nature segments. Transfer files into google drive cloud storage. On your Cromebook, move these files into your project folder. Again, use camelcase SimpleName.wav.
-
-3. Use an mp.4 recorder for longer recordings. Alternatively, you can record and edit podcasts using Beautiful Audio Editor on your Chromebook. 
-
-4.	Connect iPad to Chromebook.
-
-5.	In your Chromebook “Files,” find your iPad device, locate image assets and copy them into your project file.
-
-  
  
